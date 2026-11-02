@@ -8,6 +8,6 @@ eth-brownie
 matplotlib
 mypy
 pylint
-pytest==6.2.5
+pytest==9.0.3
 click==8.1.3
 tomli==2.0.1
